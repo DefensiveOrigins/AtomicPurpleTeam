@@ -1,2 +1,2 @@
 # AtomicPurpleTeam
-Atomic Purple Team Framekwork and Lifecycle
+Atomic Purple Team Framework and Lifecycle
