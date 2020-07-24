@@ -1,14 +1,10 @@
-# AtomicPurpleTeam
-Atomic Purple Team Framework and Lifecycle
 
 
-
-![Defensive Origins](https://defensiveorigins.com/wp-content/uploads/2020/05/defensive-origins-header-6-1536x760.png)
+![](images/APT3.png)
 
 # Atomic Purple Team Framework and LifeCycle
 
 **Documentation Incomplete and in Progress**
-
 
 The Atomic Purple Team Framework and Lifecycle is a business/organizational concept designed to assist organizations in building, deploying, maintaining, and justying Attack-Detect-Defend Information Security Exercises.
 
