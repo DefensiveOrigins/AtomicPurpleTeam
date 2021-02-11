@@ -6,7 +6,7 @@
 
 **Documentation Incomplete and in Progress**
 
-The Atomic Purple Team Framework and Lifecycle is a business/organizational concept designed to assist organizations in building, deploying, maintaining, and justying Attack-Detect-Defend Information Security Exercises.
+The Atomic Purple Team Framework and Lifecycle is a business/organizational concept designed to assist organizations in building, deploying, maintaining, and justifying Attack-Detect-Defend Information Security Exercises.
 
 Organizations struggling to efficiently leverage the skillsets of all information security staff will benefit from considering the Atomic Purple Team Lifecycle Framework's business driven workflow. The workflow takes its roots from tested continuous improvement frameworks like ISO9001, ISO27001, Six Sigma and the like.  The methodical balance of risk analysis, attack, hunt and defend methodologies, and business considerations can effectively and continually improve an organizations' security posture.
 
